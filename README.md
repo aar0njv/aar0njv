@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron
-- 🌱 I’m currently learning Python, Linux and Devops practices
+- 🌱 I’m currently learning System Administration and Devops concepts.
 - 📫 How to reach me [Email](mailto:aaronjoy382@gmail.com),  [LinkedIn](https://www.linkedin.com/in/aaron-joy-289084293/) 
 - 😄 Pronouns: he/him
 
